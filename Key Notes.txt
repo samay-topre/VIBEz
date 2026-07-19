@@ -1,0 +1,10 @@
+PROJECT URL  : https://efmqrzhbywxakkoxdfnc.supabase.co
+
+ANON PUBLIC KEY : sb_publishable_0oIVfsFlWknztr08KPYakA_kuleoMZa
+
+pip install fastapi uvicorn supabase sentence-transformers
+
+http://127.0.0.1:8000/docs
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
